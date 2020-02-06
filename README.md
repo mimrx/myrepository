@@ -1,1 +1,1 @@
-# myrepository
+# this is my project idea
